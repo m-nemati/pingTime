@@ -1,0 +1,9 @@
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\bin\Debug\PingTime.exe
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\bin\Debug\PingTime.pdb
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.csprojAssemblyReference.cache
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.Form1.resources
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.Properties.Resources.resources
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.csproj.GenerateResource.cache
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.csproj.CoreCompileInputs.cache
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.exe
+C:\Users\ICT_Man\Desktop\PingTime\PingTime\obj\Debug\PingTime.pdb
