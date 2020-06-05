@@ -31,9 +31,18 @@ namespace PingTime
             PingTimeRun("1.1.1.1");
         }
 
+        private void btnPingFav_Click(object sender, EventArgs e)
+        {
+            PingTimeRun(txtInputIP.Text);
+        }
         private void button2_Click(object sender, EventArgs e)
         {
             lblResult.Items.Clear();
+        }
+
+        private void btnClean_Click(object sender, EventArgs e)
+        {
+            txtInputIP.Text = "";
         }
 
         public void PingTimeRun(string ipAddr)
@@ -57,5 +66,7 @@ namespace PingTime
                 MessageBox.Show("مشکلی رخ داده است. مجدد تلاش کنید.");
             }
         }
+
+        
     }
 }
